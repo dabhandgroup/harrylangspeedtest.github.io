@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://www.harrylang.co.uk/wp-content/uploads/2018/08/BrickWallParralaxFaded.jpg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://www.harrylang.co.uk/wp-content/uploads/2018/08/BrickWallParralaxFaded.jpg";
+		</script>
+
+		<p>You are being redirected to <a href="https://www.harrylang.co.uk/wp-content/uploads/2018/08/BrickWallParralaxFaded.jpg">https://www.harrylang.co.uk/wp-content/uploads/2018/08/BrickWallParralaxFaded.jpg</a></p>
+	</body>
+</html>
